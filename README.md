@@ -4,10 +4,10 @@
 # Mac redis
 
 
-## #0 GitHub 
+## #0 Blog 
 
 ```
-https://github.com/Coxhuang/MacRedissh
+https://blog.csdn.net/Coxhuang/article/details/87540237
 ```
 
 
